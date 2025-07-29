@@ -40,11 +40,11 @@
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
-      "path": "dist/ds-alurabooks-base.cjs.production.min.js",
+      "path": "dist/alura-tech-books.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/ds-alurabooks-base.esm.js",
+      "path": "dist/alura-tech-books.esm.js",
       "limit": "10 KB"
     }
   ],
