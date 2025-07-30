@@ -1,3 +1,16 @@
+# v0.2.2 (Wed Jul 30 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/danielribas1105/ds-alurabooks-base ([@danielribas1105](https://github.com/danielribas1105))
+- feat(components): novo componente input quantidade ([@danielribas1105](https://github.com/danielribas1105))
+
+#### Authors: 1
+
+- Daniel Ribas ([@danielribas1105](https://github.com/danielribas1105))
+
+---
+
 # v0.2.1 (Wed Jul 30 2025)
 
 #### ⚠️ Pushed to `main`
