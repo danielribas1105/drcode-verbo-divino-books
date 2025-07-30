@@ -19,7 +19,8 @@
     "size": "size-limit",
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "release": "auto shipit --base-brnch=main"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -30,9 +31,11 @@
     }
   },
   "prettier": {
-    "printWidth": 80,
-    "semi": true,
-    "singleQuote": true,
+    "printWidth": 110,
+    "tabWidth": 4,
+    "useTabs": true,
+    "semi": false,
+    "singleQuote": false,
     "trailingComma": "es5"
   },
   "name": "verbo-divino-books",
@@ -61,6 +64,7 @@
     "@types/styled-components": "^5.1.34",
     "babel-loader": "^9.1.0",
     "husky": "^8.0.1",
+    "prettier": "^3.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
