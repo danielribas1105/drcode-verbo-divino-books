@@ -39,7 +39,7 @@
     "trailingComma": "es5"
   },
   "name": "verbo-divino-books",
-  "author": "DRCode Developer",
+  "author": "Daniel Ribas",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
