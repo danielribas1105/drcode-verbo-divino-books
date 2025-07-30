@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-export interface DRInputProps {
+interface DRInputProps {
   label: string;
   value: string;
   type?: 'text' | 'email' | 'password' | 'date';

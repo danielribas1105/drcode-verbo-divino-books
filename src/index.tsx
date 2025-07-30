@@ -16,5 +16,7 @@ export const Thing: FC<Props> = ({ children }) => {
 
 export * from './components/DRButton';
 export * from './components/DRCard';
+export * from './components/DRInput';
+export * from './components/DRInputCounter';
 export * from './components/DROptionsGroup';
 export * from './components/DRTag';

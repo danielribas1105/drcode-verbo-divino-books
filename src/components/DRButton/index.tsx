@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 
-export interface DRButtonProps {
+interface DRButtonProps {
   text?: string;
   type?: 'primary' | 'secundary';
   onClick?: () => void;
